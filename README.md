@@ -53,3 +53,26 @@ penamaan variabel tidak boleh mengandung spasi
 ## Operator Logika
 - operator Logika adalah operator untuk membandingkan dua nilai boolean 
 - hasil dari operator logika adalah boolean lagi
+
+## Increment dan Decrement
+
+- PHP mendukung gaya bahasa pemrograman C untuk menaikkan dan menurunkann data numbe sejumlah 1 angka
+- ini bisa mempersingkat kita ketika ingin menaikkan data
+
+## Operator Array
+- Di PHP, array memiliki operator khusus
+- Mungkin terlihat mirip dengan operator - operator sebelumnya, tapi cara kerjanya sedikit berbeda
+
+##  Expression, Statement & Block
+
+### expression adalah bagian terpenting PHP
+- di PHP, hampir semua kode yang kita tulis adalah sebuah expression
+- secara sederhana, expression adalah apapun yannng memiliki nilai atau value
+
+### statement bisa dibilang kalimat lengkap dalam bahasa indonesia
+- sebuah statement berisikan execution komplit, biasanya diakhiri dengan koma
+
+### Block
+- block adalah kumpulan statement yang terdiri dari nol atau lebih statement
+- block diawali dan diakhiri dengan kurung kurawal {}
+  
